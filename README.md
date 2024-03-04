@@ -1,6 +1,9 @@
 # user details (user-details-vue3)
 
 Fetching details of user from REST API using vue3 and quasar
+Using q-table to display data using Quasar's server table
+
+Added pagination and sorting on user id and user name columns
 
 ## Install the dependencies
 ```bash
